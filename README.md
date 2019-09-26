@@ -1,1 +1,2 @@
-# app-terraform
+# node-app-terraform
+Repository to store terraform files
